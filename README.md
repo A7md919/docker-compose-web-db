@@ -19,9 +19,13 @@ It showcases container networking, persistent storage using volumes, and service
 ## 📂 Project Structure
 
 .
+
 ├── docker-compose.yml
+
 ├── html/
+
 │ └── index.html
+
 └── README.md
 
 
